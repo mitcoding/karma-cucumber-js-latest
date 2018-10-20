@@ -11,8 +11,8 @@ module.exports = function(config) {
 		frameworks: ['cucumber-js', 'sinon-chai'],
 
 		plugins: [
-			require('./node_modules/karma-chrome-launcher/index.js'),
-			require('./node_modules/karma-sinon-chai/index.js'),
+			require("karma-chrome-launcher"),
+			require("karma-sinon-chai"),
 			require('./lib/index.js')
 		],
 
