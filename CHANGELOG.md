@@ -1,3 +1,6 @@
+### [1.0.3] (https://github.com/mitcoding/karma-cucumber-js-latest/compare/v1.0.2...v1.0.3)
+* bug fixes
+** updated adapter so that karma.complete is called even their are no feature files
 ### [1.0.2] (https://github.com/mitcoding/karma-cucumber-js-latest/compare/v1.0.1...v1.0.2)
 * updated readme to on how to correctly configure karma-cucumber-js in karma.conf.js
 ### [1.0.1] (https://github.com/mitcoding/karma-cucumber-js-latest/compare/v1.0.0...v1.0.1)
