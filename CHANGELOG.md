@@ -1,3 +1,6 @@
+### [1.0.4] (https://github.com/mitcoding/karma-cucumber-js-latest/compare/v1.0.3...v1.0.4)
+* bug fixes
+** changed cucumber-js report to summary format as it removed the need for array.pop to remove the progress dots which sometimes removed the entire output"
 ### [1.0.3] (https://github.com/mitcoding/karma-cucumber-js-latest/compare/v1.0.2...v1.0.3)
 * bug fixes
 ** updated adapter so that karma.complete is called even their are no feature files
