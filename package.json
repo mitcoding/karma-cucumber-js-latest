@@ -1,7 +1,7 @@
 {
   "name": "karma-cucumber-js-latest",
   "description": "Karma adapter for running Cucumber.js features",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Timothy Gross",
   "license": "MIT",
   "keywords": [
