@@ -1,6 +1,6 @@
 # karma-cucumber-js-latest
 
-In contrast to other adapters this one supports the latest version of Cucumber.js (5.0.2). The minimum supported Karma is 1.3.0. The minimum Supported Cucumber.js is 3.0.5. This adapter does not include Cucumber.js or Karma.js, because they are peer dependencies.
+In contrast to other adapters this one supports the latest version of Cucumber.js (6.0.5). The minimum supported Karma is 1.3.0. The minimum Supported Cucumber.js is 3.0.5. This adapter does not include Cucumber.js or Karma.js, because they are peer dependencies.
 
 ## Getting Started
 
